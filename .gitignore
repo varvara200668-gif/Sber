@@ -1,0 +1,10 @@
+# Java
+*.class
+out/
+
+# Maven
+target/
+*.log
+.idea/
+.vscode/
+
